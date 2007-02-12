@@ -1,5 +1,5 @@
 Summary:	retty - attach processes running on other terminals
-Summary(pl):	retty - pod³±czanie siê do procesów dzia³aj±cych na innych terminalach
+Summary(pl.UTF-8):   retty - podÅ‚Ä…czanie siÄ™ do procesÃ³w dziaÅ‚ajÄ…cych na innych terminalach
 Name:		retty
 Version:	1.0
 Release:	1
@@ -18,13 +18,13 @@ home machine and now wanna check your mail? Attach it with retty, do
 whatever you want, detach it again and everything is as it was before.
 You don't have to run them all in screen just in case.
 
-%description -l pl
-retty to ma³e narzêdzie pozwalaj±ce pod³±czyæ siê do procesów
-dzia³aj±cych na innych terminalach. Je¶li na przyk³ad uruchomili¶my
-mutta nie na screenie na domowej maszynie i chcemy sprawdziæ zdalnie
-pocztê, mo¿emy uruchomiæ retty, zrobiæ co tylko chcemy, od³±czyæ siê i
-wszystko bêdzie tak, jak wcze¶niej. Nie trzeba w tym celu uruchamiaæ
-programów na screenie.
+%description -l pl.UTF-8
+retty to maÅ‚e narzÄ™dzie pozwalajÄ…ce podÅ‚Ä…czyÄ‡ siÄ™ do procesÃ³w
+dziaÅ‚ajÄ…cych na innych terminalach. JeÅ›li na przykÅ‚ad uruchomiliÅ›my
+mutta nie na screenie na domowej maszynie i chcemy sprawdziÄ‡ zdalnie
+pocztÄ™, moÅ¼emy uruchomiÄ‡ retty, zrobiÄ‡ co tylko chcemy, odÅ‚Ä…czyÄ‡ siÄ™ i
+wszystko bÄ™dzie tak, jak wczeÅ›niej. Nie trzeba w tym celu uruchamiaÄ‡
+programÃ³w na screenie.
 
 %prep
 %setup -q
