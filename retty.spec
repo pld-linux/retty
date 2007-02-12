@@ -1,5 +1,5 @@
 Summary:	retty - attach processes running on other terminals
-Summary(pl.UTF-8):   retty - podłączanie się do procesów działających na innych terminalach
+Summary(pl.UTF-8):	retty - podłączanie się do procesów działających na innych terminalach
 Name:		retty
 Version:	1.0
 Release:	1
